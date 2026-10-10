@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router';
 import StartPage from './Pages/StartPage';
 import NavLayout from './Layouts/NavLayout';
 import WhyChoooseUsPage from './Pages/WhyChooseUsPage';
